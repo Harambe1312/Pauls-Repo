@@ -1,3 +1,4 @@
+12.22.2024, 8010 Graz
 Pauls-Repo README
 #Hello this is my README for the Github Tutorial
 1. Git simple workflow
