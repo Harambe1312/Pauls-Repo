@@ -4,3 +4,5 @@ Pauls-Repo README
 	a. create a repo
 	b. commit and push changes
 	c. pull changes and address merges
+Written by Paul Freitag for the course of GIS Analysis
+Cheers
