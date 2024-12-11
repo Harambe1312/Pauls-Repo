@@ -7,3 +7,4 @@ Pauls-Repo README
 	c. pull changes and address merges
 Written by Paul Freitag for the course of GIS Analysis
 Cheers
+Modification attempt 2
