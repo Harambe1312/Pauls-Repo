@@ -8,3 +8,4 @@ Pauls-Repo README
 Written by Paul Freitag for the course of GIS Analysis
 Cheers
 Trying to change and fulfill the exercise for the 2nd time
+Modification attempt 2
